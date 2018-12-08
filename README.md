@@ -16,6 +16,7 @@ Pretty much did the following:
 5. Loaded web pages with WebView<br/>
 6. Had fun with the ConstraintLayout<br/>
 
+
 These are the external libraries that I used. You can check them in the module gradle file:
 
 com.squareup.okhttp3:okhttp:3.12.0<br/>
